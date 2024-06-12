@@ -1,6 +1,6 @@
 # Magnum Opus: In-Silico PCR and Sequence Alignment
 
-This repository contains parts one and two of the Python package `magnumopus` which performs in-silico PCR (isPCR) and sequence alignment using the Needleman-Wunsch algorithm. This project is developed as part of the BIOL 7200 Programming for Bioinformatics course at Georgia Tech.
+This repository contains parts one and two of the Python package `magnumopus` which performs in-silico PCR (isPCR) and sequence alignment using the Needleman-Wunsch algorithm. This was the final project of the BIOL7200- Programming for Bioinformatics course at Georgia Tech.
 
 ## Overview
 
