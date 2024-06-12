@@ -4,7 +4,7 @@ This repository contains parts one and two of the Python package `magnumopus` wh
 
 ## Overview
 
-The `magnumopus` package (parts 1 and 2) includes functionalities for:
+The `magnumopus` package includes functionalities for:
 1. **In-Silico PCR (isPCR)**: Simulates the Polymerase Chain Reaction (PCR) process to amplify target DNA sequences.
 2. **Needleman-Wunsch Algorithm**: Performs global sequence alignment.
 
